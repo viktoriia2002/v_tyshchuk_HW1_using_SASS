@@ -7,13 +7,6 @@
     background-color: #ffffff;
 }
 
-.clLogo { 
-    position:relative;
-    top: 50%;
-    transform: translateY(-50%);
-    left:40px;
-}
-
 .yellowBoxNav {
     position:relative;
     display:inline-block;
@@ -44,4 +37,10 @@
     right:-15px;
  }
 
+ .clLogo { 
+    position:relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left:40px;
+}
 
