@@ -22,4 +22,24 @@
     height: 45px;
     color:white;
     z-index: 25;
+    
+    span {
+    position: relative; 
+    top: 8px; 
+    font-size:3rem; 
+    }
+}
+
+.dropdown-menu {
+    margin-top:25px;
+ }
+.dropdown-menu-right { 
+    right:-15px;
+ }
+
+ .clLogo { 
+    position:relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left:40px;
 }
