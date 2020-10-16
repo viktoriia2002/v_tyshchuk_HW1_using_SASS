@@ -4,6 +4,10 @@
 Use the SASS language to
 create modules that compile into a production-ready CSS file.
 
+Using AJAX
+Create an AJAX request for the JSON file using the Fetch API or the XHTTP object. Use that
+application state to build out your application’s view (the course home page).
+
 ## MIT License
 Copyright (c) 2020 Viktoriia Tyshchuk and Elena Chechulina
 
